@@ -1,0 +1,11 @@
+{
+    "seed": -1,
+    "threads": 4,
+    "n_predict": 1,
+    "model_path": "C:\\Users\\Jaseunda\\dalai\\alpaca\\models\\13B\\ggml-model-q4_0.bin",
+    "top_k": 40,
+    "top_p": 0.9,
+    "temp": 0.1,
+    "repeat_last_n": 64,
+    "repeat_penalty": 1.3
+}
