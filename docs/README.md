@@ -8,7 +8,7 @@ Join Discord server [here](https://discord.gg/sHnj5YjchQ).
 
 Alpaca and Llama are AI models that can be installed on your computer for natural language processing. Follow the instructions below to get started.
 
-![localAI](/docs/localAI.gif)
+![localAI](/docs/localAI.png)
 
 ### System Requirements
 
